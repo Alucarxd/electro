@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#products {
+    height: 100vh;
+    overflow-y: auto;
+    padding: 2px;
+}
+
+.from-group {
+    margin-bottom: 1rem;
+}
+#name, #price, #description {
+    width: 100%;
+}
